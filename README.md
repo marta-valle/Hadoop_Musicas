@@ -20,9 +20,12 @@ Analisar a popularidade das músicas por gênero utilizando processamento distri
 
 ## 📥 Dataset
 
+O dataset não foi versionado no repositório devido ao seu tamanho, sendo disponibilizado externamente.
 O dataset utilizado pode ser encontrado em:
 
 [dataset/musica](https://drive.google.com/drive/folders/1jOJMEQfawFE61nyXhZRtPSxrh7ih9sFD?usp=drive_link)
+
+Após baixar, coloque o arquivo no caminho desejado no ambiente (ex: Google Colab).
 
 ## ▶️ Como executar
 
